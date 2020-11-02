@@ -5,7 +5,7 @@ ___
 
 #### Projects:
 
-**@mybuildr** | Developer Platform
+**@mybuildr** | Founded | Development Platform 
 <br><a href="https://mybuildr.dev/">myBuildr Website</a>
 
 ___
