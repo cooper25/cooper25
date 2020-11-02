@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm Cooper, a front-end web developer.
+I'm Cooper, a front-end web developer. (a bad one)
 
 ___
 
