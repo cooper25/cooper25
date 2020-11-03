@@ -13,3 +13,7 @@ ___
 #### Contact:
 
 **cooper@mybuildr.dev** | Email
+
+___
+
+[![Cooper's github stats](https://github-readme-stats.vercel.app/api?username=cooper25)](https://github.com/anuraghazra/github-readme-stats)
