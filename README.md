@@ -1,5 +1,5 @@
-### Hello! 👋
-I'm Cooper, a front-end web developer. (a bad one)
+<img src="https://cooper25.github.io/cooper25.png" height="50"><br><br>
+Hello 👋, I'm a designer/front-end web developer. (a bad one)
 
 ___
 
