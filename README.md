@@ -8,6 +8,8 @@ ___
 **@mybuildr** | Founded | Development Platform 
 <br><a href="https://mybuildr.dev/">myBuildr Website</a>
 
+**Coffee Co.** | Created | Example Website
+<br><a href="https://coffeeco.loertis.dev/">Coffee Co. Website</a>
 ___
 
 #### Contact:
