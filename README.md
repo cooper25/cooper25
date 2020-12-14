@@ -1,4 +1,5 @@
-<img src="https://cooper25.github.io/cooper25.png" height="50"><br><br>
+<img src="https://cooper25.github.io/cooper25_light.png" height="50"><br><br>
+<img src="https://cooper25.github.io/cooper25_dark.png" height="50"><br><br>
 Hello 👋, I'm a designer/front-end web developer. (a bad one)
 
 ___
