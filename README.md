@@ -5,6 +5,9 @@ ___
 
 #### Projects:
 
+**Personal Portfolio** | Personal | Portfolio
+<br><a href="https://coopertsoris.dev/">Portfolio Website</a>
+
 **@mybuildr** | Founded | Development Platform 
 <br><a href="https://mybuildr.dev/">myBuildr Website</a>
 
