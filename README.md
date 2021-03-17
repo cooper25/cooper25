@@ -7,13 +7,13 @@ ___
 #### Projects:
 
 **Personal Portfolio** | Personal | Portfolio
-<br><a href="https://coopertsoris.dev/">Portfolio Website</a>
+<br><a href="https://cppr.design/">Portfolio Website</a>
 
 **@mybuildr** | Founded | Development Platform 
 <br><a href="https://mybuildr.dev/">myBuildr Website</a>
 
 **Coffee Co.** | Created | Example Website
-<br><a href="https://coffeeco.loertis.dev/">Coffee Co. Website</a>
+<br><a href="https://coffeeco.loertis.dev/">~Coffee Co. Website~</a> (Link Broken)
 ___
 
 #### Contact:
