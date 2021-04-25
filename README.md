@@ -6,19 +6,17 @@ ___
 
 #### Projects:
 
-**Personal Portfolio** | Personal | Portfolio
-<br><a href="https://coopertsoris.dev/">Portfolio Website</a>
+**Personal Business Card**
+<br><a href="https://coopertsoris.dev/">Business Card</a>
 
-**@mybuildr** | Founded | Development Platform 
-<br><a href="https://mybuildr.dev/">myBuildr Website</a>
+**Link Directory**
+<br><a href="https://cppr.design/">Directory</a>
 
-**Coffee Co.** | Created | Example Website
-<br><a href="https://coffeeco.loertis.dev/">~Coffee Co. Website~</a> (Link Broken)
 ___
 
 #### Contact:
 
-**cooper@mybuildr.dev** | Email
+**hello@coopertsoris.dev** | Email
 
 ___
 
