@@ -1,22 +1,24 @@
-<img src="https://cooper25.github.io/cooper25_dark.png" height="50"><br><br>
-<img src="https://cooper25.github.io/cooper25_light.png" height="50"><br><br>
-👋 Hello I'm Cooper, a designer/web designer; everything I make is bad.
+<img height="45" src="https://user-images.githubusercontent.com/54509461/115132701-03258c00-9fc8-11eb-8ea9-027233f6ba7c.png"/>
+Self-taught Graphic & Web Designer based out<br>of the United States with overtwo years<br>of experience.<br>
 
 ___
 
-#### Projects:
+### My Projects:
 
-**Personal Business Card**
-<br><a href="https://coopertsoris.dev/">Business Card</a>
+<br><a href="https://directory.cppr.dev">**Link Directory**</a><br>
+My link directory is an open-source static version of LinkTree.<br>
+<a href="https://github.com/cooper25/directory">View on GitHub</a>
 
-**Link Directory**
-<br><a href="https://cppr.design/">Directory</a>
+<br><a href="https://cppr.dev">**Personal Website**</a><br>
+Basically a big business card.<br>
+<a href="https://github.com/cooper25/portfolio2021">View on GitHub</a>
 
 ___
 
-#### Contact:
+### Contact Me:
 
-**hello@coopertsoris.dev** | Email
+<br><a href="mailto:cooper@cppr.dev">cooper@cppr.dev</a><br>
+<a href="https://directory.cppr.dev">Link Directory</a>
 
 ___
 
