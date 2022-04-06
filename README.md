@@ -1,6 +1,8 @@
 <img height="45" src="https://user-images.githubusercontent.com/54509461/115132701-03258c00-9fc8-11eb-8ea9-027233f6ba7c.png"/>
 Self-taught Graphic & Web Designer based out<br>of the United States with overtwo years<br>of experience.<br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/307273393600724994)](https://discord.com/users/307273393600724994)
+
 ___
 
 ### My Projects:
